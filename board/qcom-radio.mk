@@ -1,0 +1,1 @@
+PROTOBUF_SUPPORTED := true
